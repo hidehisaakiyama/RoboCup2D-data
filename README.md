@@ -9,7 +9,7 @@ An overview of this project can be found in [the slide](./SoccerGameplayDataGene
 
 - [Round Robin games by 13 teams from RoboCup2021](http://alab.ise.ous.ac.jp/robocupdata/rc2021-roundrobin/)
   - [RoboCup2021 Information Board](https://docs.google.com/document/d/18FbbsghP-4K5P_G2hUpANdibdUzqepqLAmdL2jZ_FMM/edit?usp=sharing)
-- [Round Robin games by 10 teams from RoboCup2024](http://alab.ise.ous.ac.jp/robocupdata/rc2024-roundrobin/) (In Progress)
+- [Round Robin games by 10 teams from RoboCup2024](http://alab.ise.ous.ac.jp/robocupdata/rc2024-roundrobin/)
   - [RoboCup2024 Information Board](https://docs.google.com/document/d/1LZI8iDtDIxBufzyQpeKdrYMLOe_qbWMZ3VlWmxIGV-Y/edit?usp=sharing)
 - ...
 
