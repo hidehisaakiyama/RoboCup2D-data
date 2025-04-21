@@ -21,6 +21,6 @@ An overview of this project can be found in [the slide](./SoccerGameplayDataGene
 
 ## Reference
 
-If you use our data, please refer the following paper:
+If you use our data, please refer to the following paper:
 
-- Hidehisa Akiyama, Tomoharu Nakashima, Soccer Gameplay Data Generation: Toward Integrating Computer Simulations and Human Sports Analysis, [RoboCup International Symposium 2024](https://2024.robocup.org/research/symposium/) (2024) doi: https://doi.org/10.1007/978-3-031-85859-8_30
+- Akiyama, H., Nakashima, T. (2025). Soccer Gameplay Data Generation: Toward Integrating Computer Simulations and Human Sports Analysis. In: Barros, E., Hanna, J.P., Okada, H., Torta, E. (eds) RoboCup 2024: Robot World Cup XXVII. RoboCup 2024. Lecture Notes in Computer Science(), vol 15570. Springer, Cham. https://doi.org/10.1007/978-3-031-85859-8_30
