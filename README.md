@@ -6,7 +6,7 @@ An overview of this project can be found in [the slide](./SoccerGameplayDataGene
 
 
 ## Provided Data
-
+The original source is currently unavailable. However, the RoboCup2024 data has been mirrored on (Google Drive)[https://drive.google.com/drive/folders/1hiXe4Vyj79FQS8tS_fCvnhaYBM7ezEzy?usp=sharing]
 - [Round Robin games by 13 teams from RoboCup2021](http://alab.ise.ous.ac.jp/robocupdata/rc2021-roundrobin/)
   - [RoboCup2021 Information Board](https://docs.google.com/document/d/18FbbsghP-4K5P_G2hUpANdibdUzqepqLAmdL2jZ_FMM/edit?usp=sharing)
 - [Round Robin games by 10 teams from RoboCup2024](http://alab.ise.ous.ac.jp/robocupdata/rc2024-roundrobin/)
